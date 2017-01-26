@@ -1,3 +1,7 @@
+<style>
+  h2 { color: red; }
+</style>
+
 ## abandonedCart
 
 #### Type: object
